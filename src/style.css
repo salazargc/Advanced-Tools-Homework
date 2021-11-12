@@ -92,3 +92,20 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 576px) {
+  .special-heading {
+    font-size: 55px;
+    margin: 10px;
+  }
+  .special-title {
+    font-size: 20px;
+    margin: 10px;
+  }
+  .special-greeting {
+    font-size: 60px;
+  }
+  .special-contactme {
+    font-size: 40px;
+  }
+}
