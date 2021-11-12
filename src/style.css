@@ -95,7 +95,7 @@ p {
 
 @media (max-width: 576px) {
   .special-heading {
-    font-size: 55px;
+    font-size: 65px;
     margin: 10px;
   }
   .special-title {
@@ -103,7 +103,7 @@ p {
     margin: 10px;
   }
   .special-greeting {
-    font-size: 60px;
+    font-size: 45px;
   }
   .special-contactme {
     font-size: 40px;
